@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.row:last-child {
+    border-bottom: none;
+}
+
+.cell {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.cell {
+    border-right: 1px solid black;
+}
+
+.cell:last-child {
+    border-right: none;
+}

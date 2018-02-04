@@ -1,0 +1,7 @@
+:global .grid {
+    display: inline-grid;
+}
+
+:global .grid {
+    margin: 15px 0;
+}
