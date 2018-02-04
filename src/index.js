@@ -8,6 +8,5 @@ const game = new Game({
   gridContainer: document.querySelector('.grid'),
   stateContainer: document.querySelector('.state'),
 });
-window.game = game;
 
 game.start();
